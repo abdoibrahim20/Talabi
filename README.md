@@ -1,8 +1,8 @@
-# Talaby — Order Management Dashboard
+# Talabi — Order Management Dashboard
 
 > Turn WhatsApp orders into organized, manageable orders. 📦
 
-**Talaby** is an Arabic RTL order management dashboard designed to help small businesses and online stores organize orders, products, customers, and reports in one simple interface.
+**Talabi** is an Arabic RTL order management dashboard designed to help small businesses and online stores organize orders, products, customers, and reports in one simple interface.
 
 ## ✨ Features
 
