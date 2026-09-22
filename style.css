@@ -1,0 +1,15 @@
+  * { -webkit-tap-highlight-color: transparent; }
+  body { font-family: 'Cairo', sans-serif; }
+  .gradient-primary { background: linear-gradient(135deg, #4F46E5 0%, #3730A3 100%); }
+  .gradient-hero { background: linear-gradient(180deg, #EEF2FF 0%, #FFFFFF 100%); }
+  .glass { background: rgba(255,255,255,0.7); backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px); }
+  .text-gradient { background: linear-gradient(135deg, #4F46E5, #3730A3); -webkit-background-clip: text; background-clip: text; color: transparent; }
+  .scrollbar-thin::-webkit-scrollbar { width: 6px; height: 6px; }
+  .scrollbar-thin::-webkit-scrollbar-thumb { background: #CBD5E1; border-radius: 3px; }
+  .scrollbar-thin::-webkit-scrollbar-thumb:hover { background: #94A3B8; }
+  .skeleton { background: linear-gradient(90deg, #F1F5F9 25%, #E2E8F0 50%, #F1F5F9 75%); background-size: 200% 100%; animation: shimmer 1.5s infinite; }
+  .pattern-dots { background-image: radial-gradient(circle, #C7D2FE 1px, transparent 1px); background-size: 24px 24px; }
+  details summary::-webkit-details-marker { display: none; }
+  details[open] .chevron { transform: rotate(180deg); }
+  .chevron { transition: transform 0.2s; }
+  @media print { .no-print { display: none !important; } }
